@@ -23,6 +23,5 @@ Port of the popular dark and light [GitHub themes](https://marketplace.visualstu
 
 ![High contrast](art/high-contrast.png)
 
-
 ## License
 [Apache 2.0](LICENSE)
