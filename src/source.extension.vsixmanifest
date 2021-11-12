@@ -3,7 +3,7 @@
     <Metadata>
         <Identity Id="GitHubDarkTheme.869f0b49-f48e-4ba7-94dd-91368e3c8810" Version="1.0.1" Language="en-US" Publisher="Mads Kristensen" />
         <DisplayName>GitHub Themes</DisplayName>
-        <Description xml:space="preserve">Port of the popular GitHub Dark theme for Visual Studio Code</Description>
+        <Description xml:space="preserve">Port of the popular dark and light GitHub themes for Visual Studio Code. </Description>
         <MoreInfo>https://github.com/madskristensen/GitHubThemes</MoreInfo>
         <License>Resources\LICENSE</License>
         <Icon>Resources\Icon.png</Icon>
