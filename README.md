@@ -1,15 +1,15 @@
 # GitHub themes for Visual Studio
 
-[![Build status](https://ci.appveyor.com/api/projects/status/252jpryc38qah37x?svg=true)](https://ci.appveyor.com/project/madskristensen/addanyfile)
+[![Build status
 
 Download the extension at the
-[VS Gallery](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.AddNewFile)
+[VS Gallery](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.GitHubThemes)
 or get the
-[nightly build](http://vsixgallery.com/extension/2E78AA18-E864-4FBB-B8C8-6186FC865DB3/)
+[nightly build](http://vsixgallery.com/extension/GitHubDarkTheme.869f0b49-f48e-4ba7-94dd-91368e3c8810/)
 
 -------------------------------------------------
 
-Port of the popular dark and light GitHub themes for Visual Studio Code. 
+Port of the popular dark and light [GitHub themes](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme) for Visual Studio Code. 
 
 ## Dark themes
 
