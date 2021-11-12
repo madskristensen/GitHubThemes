@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
+    <Metadata>
+        <Identity Id="GitHubDarkTheme.869f0b49-f48e-4ba7-94dd-91368e3c8810" Version="1.0.1" Language="en-US" Publisher="Mads Kristensen" />
+        <DisplayName>GitHub Themes</DisplayName>
+        <Description xml:space="preserve">Port of the popular GitHub Dark theme for Visual Studio Code</Description>
+        <MoreInfo>https://github.com/madskristensen/GitHubThemes</MoreInfo>
+        <License>Resources\LICENSE</License>
+        <Icon>Resources\Icon.png</Icon>
+        <PreviewImage>Resources\Icon.png</PreviewImage>
+    </Metadata>
+    <Installation>
+        <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[17.0, 18.0)">
+            <ProductArchitecture>amd64</ProductArchitecture>
+        </InstallationTarget>
+    </Installation>
+    <Prerequisites>
+        <Prerequisite Id="Microsoft.VisualStudio.Component.CoreEditor" Version="[17.0,)" DisplayName="Visual Studio core editor" />
+    </Prerequisites>
+    <Assets>
+        <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="GitHub Dark.jsonc\GitHub Dark.pkgdef" />
+        <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="GitHub Dark Default.jsonc\GitHub Dark Default.pkgdef" />
+        <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="GitHub Dark Dimmed.jsonc\GitHub Dark Dimmed.pkgdef" />
+        <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="GitHub Dark High Contrast.jsonc\GitHub Dark High Contrast.pkgdef" />
+        <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="GitHub Light.jsonc\GitHub Light.pkgdef" />
+        <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="GitHub Light Default.jsonc\GitHub Light Default.pkgdef" />
+    </Assets>
+</PackageManifest>

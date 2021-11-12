@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.31910.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitHubThemes", "src\GitHubThemes.csproj", "{39EA6245-7BDB-4CF4-A4C4-8D5C51559984}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B0ABA80B-6474-4C96-A51E-E09A04282650}"
+	ProjectSection(SolutionItems) = preProject
+		appveyor.yml = appveyor.yml
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39EA6245-7BDB-4CF4-A4C4-8D5C51559984}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39EA6245-7BDB-4CF4-A4C4-8D5C51559984}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39EA6245-7BDB-4CF4-A4C4-8D5C51559984}.Debug|x86.ActiveCfg = Debug|x86
+		{39EA6245-7BDB-4CF4-A4C4-8D5C51559984}.Debug|x86.Build.0 = Debug|x86
+		{39EA6245-7BDB-4CF4-A4C4-8D5C51559984}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39EA6245-7BDB-4CF4-A4C4-8D5C51559984}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39EA6245-7BDB-4CF4-A4C4-8D5C51559984}.Release|x86.ActiveCfg = Release|x86
+		{39EA6245-7BDB-4CF4-A4C4-8D5C51559984}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA7DCE95-21BC-4A90-8ED6-F37273A3DA67}
+	EndGlobalSection
+EndGlobal
