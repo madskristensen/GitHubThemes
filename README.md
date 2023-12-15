@@ -1,6 +1,6 @@
 # GitHub themes for Visual Studio
 
-[![Build status
+[![Build status](https://ci.appveyor.com/api/projects/status/nwgs9phk3x7l6e29?svg=true)](https://ci.appveyor.com/project/madskristensen/githubthemes)
 
 Download the extension at the
 [VS Gallery](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.GitHubThemes)
